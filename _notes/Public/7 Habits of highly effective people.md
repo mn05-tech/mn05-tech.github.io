@@ -1,6 +1,8 @@
-Home Links:
-
-Tags:
+---
+title : 7 Habits of highly effective people
+feed: show
+date : 13-08-2022
+---
 # 7 habits
 ## Habit 1: Be proactive
 ## Habit 2: Work having an end goal in sight (Funeral analogy)
